@@ -95,3 +95,4 @@ SMS/Email Alerts: Integrate GSM module to send alerts via SMS in case of motion 
 Camera Module: Attach an ESP32-CAM to capture images when motion is detected                             
 
 **Output**                               
+![Image](https://github.com/user-attachments/assets/275e191c-92d7-4659-a4fc-ec6758a1a8b7)
